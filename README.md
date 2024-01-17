@@ -1,2 +1,3 @@
-# swiss_groundwater_database
-Scripts to process data from the Swiss Groundwater Database
+# Swiss Groundwater Database
+
+This repository holds the scripts to process the data from the Swiss Groundwater Database (under development).
